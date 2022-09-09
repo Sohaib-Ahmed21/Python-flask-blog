@@ -2,7 +2,7 @@
   "parameters":
   {
     "localhost":"True",
-    "DATABASE_URL":"mysql://root@localhost/codingthunder",
+    "DATABASE_URL":"postgres://iggtadvtdnuerw:ace15b7e0ea69bc94dd403d263edc7fcbda57b223466e2f0fabf58626c0b6653@ec2-52-204-157-26.compute-1.amazonaws.com:5432/d1jqnudo5rrc6e",
     "fb_url":"https://facebook.com",
     "gmail-user":"sohaibahmed1919@gmail.com",
     "gmail-password":"noqhkvhyyhbkivhb",
