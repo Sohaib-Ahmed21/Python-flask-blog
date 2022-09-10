@@ -51,7 +51,6 @@ nbconvert==6.5.3
 nbformat==5.4.0
 nest-asyncio==1.5.5
 nltk==3.2.4
-nltk.txt
 notebook==6.4.12
 numpy==1.23.2
 packaging==21.3
